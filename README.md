@@ -23,6 +23,7 @@
 - [MCP Server Configuration](#mcp-server-configuration)
 - [Available Tools & Resources](#available-tools--resources)
 - [Usage Examples](#usage-examples)
+- [Operations Playbook](#operations-playbook)
 - [Authentication & Security](#authentication--security)
 - [Troubleshooting](#troubleshooting)
 - [Contributing](#contributing)
